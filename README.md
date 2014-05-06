@@ -1,4 +1,4 @@
 Managed-Crypto
 ==============
 
-Crypto Coin Mining services
+Crypto Coin Mining Services
